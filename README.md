@@ -122,10 +122,11 @@ A dark-themed, Spotify-inspired Power BI dashboard was developed with a strong f
 
 ## 👤 Author
 
-**Mohamed Elkomy**
+**Mohamed Elkomy** -- 
 Data Analyst & Data Scientist
-🔗 LinkedIn: [https://www.linkedin.com/in/mohamed-elkomy-me30](https://www.linkedin.com/in/mohamed-elkomy-me30)
+ -- 🔗 LinkedIn: [https://www.linkedin.com/in/mohamed-elkomy-me30](https://www.linkedin.com/in/mohamed-elkomy-me30)
 
 ---
 
 ⭐ *If you find this project useful or insightful, feel free to star the repository!*
+
